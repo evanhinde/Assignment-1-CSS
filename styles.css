@@ -1,0 +1,23 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+th {
+    background-color: #0e0e0e;
+    color: #f4f4f4;
+    height: 50px;
+    font-size: 1em;
+    padding: 1em;
+    border: 1px solid;
+    border-color: #f4f4f4;
+}
+
+td {
+    background-color: #f4f4f4;
+    color: #0e0e0e;
+    height: 300px;
+    border: 1px solid;
+    font-size: 1em;
+    padding: 1em;
+}
